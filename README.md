@@ -4,9 +4,9 @@
 ## • Commands 
 
 # pkg install php
-# git clone https://github.com/arief125/ceksubs
-# cd ceksubs
-# php ceksubs.php <URL YOUTUBE>
+# git clone https://github.com/mrjuice01/yousub
+# cd yousub
+# php yousub.php <URL YOUTUBE>
 
 
 ## • Watch Video From Our Telegram Bot 
